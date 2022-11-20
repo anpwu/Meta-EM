@@ -19,8 +19,8 @@ pip install future cvxopt keras pandas scikit-learn matplotlib
 ## The code for Meta-EM:
 
 1. run_generator.py
-2. run_IVMethods.py
-3. run_MetaEM.py
+2. run_MetaEM.py
+3. run_IVMethods.py
 
 or
 
